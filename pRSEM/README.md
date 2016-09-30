@@ -3,7 +3,7 @@
 -----------------------
 
 ### Source Code
-- [pRSEM GtiHub repository](https://github.com/pliu55/RSEM/tree/pRSEM)
+- [pRSEM GtiHub repository](https://github.com/deweylab/RSEM)
 
 ### Documentation
 - [Tutorial](https://github.com/pliu55/pRSEM_demo)
